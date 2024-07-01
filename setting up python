@@ -1,0 +1,31 @@
+How I set up my python environment on MAC # 2024 07 01
+
+> pip install --user pipenv
+E: error: externally-managed-environment. This happened because I installed python from brew (Don't know why)
+S: brew install pipenv
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+Legends:
+> - Commands
+D - Description of Commands
+E - Errors faced
+W - Warnings faced
+S - Solution taken for error
